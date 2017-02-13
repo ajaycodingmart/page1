@@ -58,7 +58,7 @@
 }
     
 .list-inline-margin-correction {
-    margin-left: 0px;
+    margin-left: 0px !important;
 }
 
 .profile_img_width {
