@@ -24,6 +24,12 @@
 .pagination_style{
     color: rgb(75, 76, 76);
 }
+.pagination_style:hover{
+    color: rgb(75, 76, 76);
+}
+.pagination_style:active{
+    color: rgb(75, 76, 76);
+}
 
 .weaver_icon {
     width: 100px;
