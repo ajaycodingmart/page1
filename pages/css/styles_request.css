@@ -30,8 +30,6 @@
     height: 15px;
 }
 
-.need_help {}
-
 .box_padding {
     border-top: none;
     border-right: none;
@@ -50,6 +48,10 @@
     background-color: white;
 }
 
+.radio_no_padding{
+    padding-left: 0px !important;
+}
+
 .active {
     border-top: none;
     border-right: none;
@@ -63,16 +65,6 @@
 
 .profile_img_width {
     width: 80px !important;
-}
-
-.my-nav-tabs > li.active > a,
-.my-nav-tabs > li.active > a:focus,
-.my-nav-tabs > li.active > a:hover {
-    color: #555;
-    cursor: default;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-bottom-color: red;
 }
 
 .o_s_t {
