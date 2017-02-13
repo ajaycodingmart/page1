@@ -5,6 +5,7 @@
 .myrow {
     margin-left: 0px;
     margin-right: 0px;
+    height: 5em;
 }
 
 .card-panel {
@@ -50,6 +51,25 @@
 
 .radio_no_padding{
     padding-left: 0px !important;
+}
+
+.top_margin_null{
+    margin-top: 0px !important;
+}
+
+.right_pull{
+    margin-left: 27% !important;
+}
+
+.back_btn_style{
+     display:inline; 
+     margin-top: 0px; 
+     margin-bottom: 0px; 
+     font-size: 18px
+}
+
+.calender_date_img_margin{
+    margin-left: 40px !important;
 }
 
 .active {
