@@ -17,6 +17,13 @@
     background-color: white;
 }
 
+.mypagination{
+    font-size: 20px;
+}
+
+.pagination_style{
+    color: rgb(75, 76, 76);
+}
 
 .weaver_icon {
     width: 100px;
